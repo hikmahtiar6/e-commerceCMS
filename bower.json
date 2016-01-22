@@ -1,0 +1,28 @@
+{
+  "name": "ecomerce-cms",
+  "authors": [
+    "Hikmahtiar <hikmahtiar.cool@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0",
+    "jquery": "~2.2.0",
+    "PACE": "pace#~1.0.2",
+    "datatables": "~1.10.10",
+    "ckeditor": "~4.5.6",
+    "datatables-bootstrap": "https://github.com/hikmahtiar6/DatatablesBootstrap.git",
+    "jquery-form": "~3.46.0"
+  }
+}
